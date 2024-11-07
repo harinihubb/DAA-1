@@ -1,0 +1,5 @@
+﻿Design and Analysis of Algorithms
+
+
+Week 1 
+Basic c programming practice
